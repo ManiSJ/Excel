@@ -1,0 +1,7 @@
+E:\Excel\Excel\Excel\bin\Debug\Excel.exe.config
+E:\Excel\Excel\Excel\bin\Debug\Excel.exe
+E:\Excel\Excel\Excel\bin\Debug\Excel.pdb
+E:\Excel\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+E:\Excel\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+E:\Excel\Excel\Excel\obj\Debug\Excel.exe
+E:\Excel\Excel\Excel\obj\Debug\Excel.pdb
